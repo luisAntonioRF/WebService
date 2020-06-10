@@ -1,0 +1,13 @@
+/soap/springboot-app-soap/mvnw.cmd
+/soap/springboot-app-soap/mvnw
+/soap/springboot-cliente-soap/mvnw.cmd
+/soap/springboot-cliente-soap/mvnw
+/soap/springboot-cliente-soap/.mvn
+/soap/springboot-app-soap/.mvn
+/soap/springboot-cliente-soap/.gitignore
+/soap/springboot-app-soap/.gitignore
+/soap/springboot-app-soap/target
+
+
+/soap/springboot-cliente-soap/src/test
+/soap/springboot-app-soap/src/test
